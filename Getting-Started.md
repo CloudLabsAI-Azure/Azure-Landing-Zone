@@ -12,19 +12,14 @@ Understand how to design, deploy, and manage an **Azure Landing Zone (ALZ)** for
 
 - **Deploying an Azure Landing Zone (ALZ) with Management Groups (MGs) and Subscriptions**  
   Learn how to structure and deploy an **Azure Landing Zone** using **Management Groups and Subscriptions** to establish governance, security, and scalability best practices.  
-
 - **Utilizing the App Service ALZ Accelerator for Secure and Scalable App Service Deployment**  
   Explore how to leverage the **App Service ALZ Accelerator** to deploy and manage secure, scalable applications while ensuring compliance with enterprise policies.  
-
 - **Implementing Azure Monitor Baseline Alerts (AMBA) for Proactive Monitoring and Alerting**  
   Learn to configure **Azure Monitor Baseline Alerts (AMBA)** to detect anomalies, ensure system health, and proactively respond to issues in your cloud environment.  
-
 - **Applying Azure Policies, Role-Based Access Control (RBAC), and Governance Controls**  
   Gain expertise in enforcing security and compliance by implementing **Azure Policies, RBAC, and governance mechanisms** to standardize resource management.  
-
 - **Deploying and Securing an Application Workload in a New App Landing Zone (LZ) Subscription**  
   Understand how to deploy, configure, and secure an **application workload** within a **new App Landing Zone (LZ) subscription** while maintaining governance and security controls.  
-
 - **Configuring Azure Monitor, Log Analytics, and Operational Dashboards**  
   Learn how to set up **Azure Monitor, Log Analytics, and operational dashboards** to gain insights into system performance, security posture, and operational efficiency.
 
