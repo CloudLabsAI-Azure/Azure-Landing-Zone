@@ -8,8 +8,6 @@ In this lab, you will **deploy an Azure Landing Zone (ALZ)** with **Management G
 
 ## Objective
 
-### **Objective**  
-
 Understand how to design, deploy, and manage an **Azure Landing Zone (ALZ)** for enterprise-scale cloud adoption. By the end of the lab, you will have knowledge on:  
 
 - **Deploying an Azure Landing Zone (ALZ) with Management Groups (MGs) and Subscriptions**  
