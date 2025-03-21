@@ -107,7 +107,7 @@ In this task, we will deploy a Platform Landing Zone using **ARM** or **Bicep** 
 
     [![Deploy to Azure](https://raw.githubusercontent.com/Azure/azure-quickstart-templates/master/1-CONTRIBUTION-GUIDE/images/deploytoazure.svg?sanitize=true)](https://aka.ms/caf/ready/accelerator)
 
-4. On the **Custom deployment** blade, in the **Basics** section, choose the Region as `EastUS` (1) and click on **Next: Azure core setup** (2).
+1. On the **Custom deployment** blade, in the **Basics** section, choose the Region as `EastUS` (1) and click on **Next: Azure core setup** (2).
 
     ![Image](./media/ex1task2s4.png)
 
